@@ -1,4 +1,4 @@
-package com.xyc.demo.bean;
+package com.xyc.demo.spring;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

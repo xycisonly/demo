@@ -1,4 +1,4 @@
-package com.xyc.demo.bean;
+package com.xyc.demo.spring;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
