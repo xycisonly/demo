@@ -1,7 +1,9 @@
 package com.xyc.demo.mq.consumer;
 
 import org.apache.kafka.clients.consumer.ConsumerInterceptor;
+import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
+import org.apache.kafka.common.record.TimestampType;
 
 import java.util.Map;
 
