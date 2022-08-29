@@ -28,7 +28,6 @@ public class zktest {
         System.out.println("aa"+children);
 //        zk.create(createNodeName,createNodeName.getBytes(),ZooDefs.Ids.OPEN_ACL_UNSAFE,CreateMode.PERSISTENT);
 //        zk2.delete(createNodeName,-1);
-
         try {
             Thread.sleep(5000);
         }catch (Exception e){}
